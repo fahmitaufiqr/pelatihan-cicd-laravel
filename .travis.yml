@@ -1,6 +1,6 @@
 # os yang di gunakan
 os:
-    - linux
+    - windows
   # bahasa
   language: php
   # distro 
